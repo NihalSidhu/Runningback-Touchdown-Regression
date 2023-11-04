@@ -19,9 +19,9 @@ I was able to design this touchdown regression model using play by play data fro
 - Probability aggregation	
 
 ## The Rankings
-The project and process of how the value over replacement rankings were developed can be found here: [The Project](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb).
+The project and process of how the touchdown regression candidates were developed can be found here: [The Project](https://github.com/NihalSidhu/Runningback-Touchdown-Regression/blob/main/Runningback_TD_Regression_Candidates.ipynb).
 
-The final value over replacement rankings can be found here: [The Rankings](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/ValueOverReplacementRankings.csv).
+The final touchdown regression candidate rankings can be found here: [The Candidates](https://github.com/NihalSidhu/Runningback-Touchdown-Regression/blob/main/RunningbackTouchdownRegressionRankings.csv).
 
 ## Contact Me
 Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
@@ -29,6 +29,5 @@ Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
 LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
 ## Acknowledgements
-A big thank you to both FantasyPros and Underdog Network for having their data accessible to the public.
-I was able to pull 2023 NFL projection data from the [Fantasy Pros Site](https://www.fantasypros.com/) and was able to get 2023 average draft position data from [Underdog Network](https://underdognetwork.com/football).
-
+A big thank you to NFLFastR for having setup modules that allow for easy reading of play by play data. 
+Using NFLFastR, I was able to pull the play by play data from 2018 through 2022 using the nfl_data_py library from NFLFastR. You can view more information about NFLFastR [here](https://www.nflfastr.com/).
