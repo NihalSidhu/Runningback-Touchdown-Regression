@@ -8,7 +8,7 @@
 - [Acknowledgements](#Acknowledgements)
 
 ## Overview
-If you have ever played fantasy football before, you will immediately recognize how important touchdowns are. Touchdowns lead to huge swings in fantasy football matchups and it would be a fantastic if we knew had some pointers to whether players might score more or less touchdowns in the future. Luckily, that's what this study focuses on. Using touchdown regression analysis, this study analyzes which runningbacks overperformed or underperformed their expected touchdown total in 2022. This will allow owners to understand which runningbacks to draft based on prior touchdown performances versus their expected touchdowns.
+If you have ever played fantasy football before, you will immediately recognize how important touchdowns are. Touchdowns lead to huge swings in fantasy football matchups and it would be a fantastic if we had some pointers to whether players might score more or less touchdowns in the future. Luckily, that's what this study focuses on. Using touchdown regression analysis, this study analyzes which runningbacks overperformed or underperformed their expected touchdown total in 2022. This will allow owners to understand which runningbacks to draft based on prior touchdown performances versus their expected touchdowns.
 
 I was able to design this touchdown regression model using play by play data from the 2018 NFL season through the 2022 NFL season. By combining running play probabilities and scoring regression analysis, I am able to present to you runningbacks to target and avoid based on their likelihood of scoring more or less touchdowns in 2023. Enjoy!
 
