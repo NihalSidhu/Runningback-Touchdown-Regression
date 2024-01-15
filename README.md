@@ -24,7 +24,7 @@ The project and process of how the touchdown regression candidates were develope
 The final touchdown regression candidate rankings can be found here: [The Candidates](https://github.com/NihalSidhu/Runningback-Touchdown-Regression/blob/main/RunningbackTouchdownRegressionRankings.csv).
 
 ## Contact Me
-Email: [nihalsidhu1@gmail.com](mailto:nihalsidhu1@gmail.com])
+Email: [nss94@cornell.edu](mailto:nss94@cornell.edu)
 
 LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
