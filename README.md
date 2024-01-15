@@ -16,7 +16,12 @@ I was able to design this touchdown regression model using play by play data fro
 - Python
     - Libraries: Numpy, Pandas & Seaborn
 - Regression model
-- Probability aggregation	
+- Probability aggregation
+
+## Sneak Peak
+![image](https://github.com/NihalSidhu/Runningback-Touchdown-Regression/assets/111151666/b67002d2-0618-428d-9bf2-c2cfe887bbef)
+
+This graph displays a few players performances in the 2023 NFL season in regards to touchdowns they were expected to score and how much they actually scored.
 
 ## The Rankings
 The project and process of how the touchdown regression candidates were developed can be found here: [The Project](https://github.com/NihalSidhu/Runningback-Touchdown-Regression/blob/main/Runningback_TD_Regression_Candidates.ipynb).
